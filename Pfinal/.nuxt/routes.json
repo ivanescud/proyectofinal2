@@ -1,0 +1,37 @@
+[
+  {
+    "name": "nuevo_proyecto",
+    "path": "/nuevo_proyecto",
+    "component": "/Users/ivanescudero/Desktop/Programacion Grafica/ProGrafica/ProgGrafica/Pfinal/pages/nuevo_proyecto/index.vue",
+    "chunkName": "pages/nuevo_proyecto/index",
+    "_name": "_1c4e181e"
+  },
+  {
+    "name": "proyectos",
+    "path": "/proyectos",
+    "component": "/Users/ivanescudero/Desktop/Programacion Grafica/ProGrafica/ProgGrafica/Pfinal/pages/proyectos/index.vue",
+    "chunkName": "pages/proyectos/index",
+    "_name": "_60a6bf00"
+  },
+  {
+    "name": "vuex",
+    "path": "/vuex",
+    "component": "/Users/ivanescudero/Desktop/Programacion Grafica/ProGrafica/ProgGrafica/Pfinal/pages/vuex/index.vue",
+    "chunkName": "pages/vuex/index",
+    "_name": "_ab9a39d4"
+  },
+  {
+    "name": "proyectos-id",
+    "path": "/proyectos/:id",
+    "component": "/Users/ivanescudero/Desktop/Programacion Grafica/ProGrafica/ProgGrafica/Pfinal/pages/proyectos/_id.vue",
+    "chunkName": "pages/proyectos/_id",
+    "_name": "_922e7a30"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/ivanescudero/Desktop/Programacion Grafica/ProGrafica/ProgGrafica/Pfinal/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_30bebe01"
+  }
+]
